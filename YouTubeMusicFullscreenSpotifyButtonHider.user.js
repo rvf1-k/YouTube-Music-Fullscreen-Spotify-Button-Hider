@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         YouTube Music Fullscreen Spotify Button Hider
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Oculta #spotify-convert-btn solo en fullscreen. Este botón es añadido por la extensión "YouTube Music to Spotify".
 // @author       rvf1-k
 // @match        https://music.youtube.com/*
 // @icon         https://lh3.googleusercontent.com/OoOCgpsY2din4lp_6X-I4So0BrF9mbUP-HJVsMmwW9RdSbCViN6eJEetPLuyQ6Ukt4tFnb1GLAYNSInVo2AShBnv=s60
 // @source       https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider
+// @updateURL    https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider/raw/refs/heads/main/YouTubeMusicFullscreenSpotifyButtonHider.user.js
+// @downloadURL  https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider/raw/refs/heads/main/YouTubeMusicFullscreenSpotifyButtonHider.user.js
 // @grant        none
 // ==/UserScript==
 
