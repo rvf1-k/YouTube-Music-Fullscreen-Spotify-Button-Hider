@@ -19,12 +19,12 @@ El UserScript **solo oculta este botón en fullscreen**, sin afectar el funciona
 
 ---
 
-## Cómo usar
+## Cómo usar🙋‍♂️
 
 1. Instala [Tampermonkey](https://www.tampermonkey.net/) o [Violentmonkey](https://violentmonkey.github.io/) en tu navegador.
-2. Crea un nuevo UserScript y pega el contenido de [`YouTubeMusicFullscreenButtonHider.user.js`](https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider/blob/main/YouTubeMusicFullscreenSpotifyButtonHider.user.js).
-3. Guarda el script y recarga [YouTube Music](https://music.youtube.com/).
-4. Cuando entres en pantalla completa, el botón verde de Spotify se ocultará automáticamente.
+2. Haz click aquí para [instalar](https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider/raw/refs/heads/main/YouTubeMusicFullscreenSpotifyButtonHider.user.js) o dentro del archivo [`YouTubeMusicFullscreenButtonHider.user.js`](https://github.com/rvf1-k/YouTube-Music-Fullscreen-Spotify-Button-Hider/blob/main/YouTubeMusicFullscreenSpotifyButtonHider.user.js) pulsa `Raw`.
+4. Guarda el script y recarga [YouTube Music](https://music.youtube.com/).
+5. Cuando entres en pantalla completa, el botón verde de Spotify se ocultará automáticamente.
 
 ---
 
